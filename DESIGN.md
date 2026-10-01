@@ -2,11 +2,13 @@
 
 **Author:** BADREDDINE ELFAJI
 
-**Video Overview:** [Link]
+**Video Overview:** https://youtu.be/n8QbbSGC5UE
 
 **Project name:** Opening Repertoire & Match Tracker
 
 **Github Link:** https://github.com/Badr-Eddine-Elfaji/Chess_Repertoire_DB_Design
+
+**Openings info source:** https://github.com/lichess-org/chess-openings
 
 ---
 
